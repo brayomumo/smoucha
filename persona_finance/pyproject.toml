@@ -1,0 +1,23 @@
+[project]
+name = "persona_finance"
+version = "0.1.0"
+description = "persona_finance using crewAI"
+authors = [{ name = "Brian Mumo", email = "brayomumo5@gmail.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.121.1,<1.0.0"
+]
+
+[project.scripts]
+persona_finance = "persona_finance.main:run"
+run_crew = "persona_finance.main:run"
+train = "persona_finance.main:train"
+replay = "persona_finance.main:replay"
+test = "persona_finance.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
