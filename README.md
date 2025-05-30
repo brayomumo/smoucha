@@ -1,6 +1,6 @@
 # SMOUCHA: Personal AI-Powered Assistant
 
-SMOUCHA is an ambitious project to build a comprehensive, AI-powered personal assistant designed to help users manage and optimize various aspects of their lives. The goal is to create a modular, extensible system that can integrate multiple intelligent agents for different domains.
+**S**mart **M**ulti-agent **O**rchestrator for **U**nified **C**ontrol & **H**olistic **A**utomation (*SMOUCHA*) is an ambitious project to build a comprehensive, AI-powered personal assistant designed to help users manage and optimize various aspects of their lives. The goal is to create a modular, extensible system that can integrate multiple intelligent agents for different domains.
 
 ## Current Status
 

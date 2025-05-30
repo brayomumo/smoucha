@@ -10,6 +10,11 @@ PersonaFinance Crew is a multi-agent AI system built with [crewAI](https://crewa
 - **Goal Alignment & Strategy:** Translate user goals into actionable financial strategies.
 - **Comprehensive Financial Plan:** Generate a user-friendly, actionable plan with charts and recommendations.
 
+
+## Demo
+[![Watch Demo](https://github.com/brayomumo/smoucha/blob/main/docs/persona_finance/architecture.png)](https://youtu.be/aAMoS1N1SrE)
+
+
 ## Installation
 
 1. **Python Version:**  

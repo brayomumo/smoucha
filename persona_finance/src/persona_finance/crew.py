@@ -19,28 +19,28 @@ class PersonaFinance():
     def chief_financial_data_officer(self) -> Agent:
         return Agent(
             config=self.agents_config['chief_financial_data_officer'], # type: ignore[index]
-            verbose=True
+            # verbose=True
         )
 
     @agent
     def cashflow_analyst(self) -> Agent:
         return Agent(
             config=self.agents_config['cashflow_analyst'], # type: ignore[index]
-            verbose=True
+            # verbose=True
         )
     
     @agent
     def strategic_planner(self) -> Agent:
         return Agent(
             config=self.agents_config['strategic_planner'], # type: ignore[index]
-            verbose=True
+            # verbose=True
         )
     
     @agent
     def master_plan_articulator(self) -> Agent:
         return Agent(
             config=self.agents_config['master_plan_articulator'], # type: ignore[index]
-            verbose=True
+            # verbose=True
         )
 
 
